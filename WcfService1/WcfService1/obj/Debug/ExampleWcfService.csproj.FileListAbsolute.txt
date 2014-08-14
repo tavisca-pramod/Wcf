@@ -1,0 +1,5 @@
+D:\pramod\CodeJam\WcfService1\WcfService1\bin\ExampleWcfService.dll
+D:\pramod\CodeJam\WcfService1\WcfService1\bin\ExampleWcfService.pdb
+D:\pramod\CodeJam\WcfService1\WcfService1\obj\Debug\ExampleWcfService.dll
+D:\pramod\CodeJam\WcfService1\WcfService1\obj\Debug\ExampleWcfService.pdb
+D:\pramod\CodeJam\WcfService1\WcfService1\obj\Debug\ExampleWcfService.csprojResolveAssemblyReference.cache
